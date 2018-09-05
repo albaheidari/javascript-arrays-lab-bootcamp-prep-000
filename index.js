@@ -2,5 +2,5 @@
 function destructivelyAppendKitten(name){
   var names = ["Milo", "Otis", "Garfield"];
   var names1 = ["Ralph"];
-  return (names.concat(names1));
+  return(names.concat(names1));
 }
