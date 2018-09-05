@@ -2,4 +2,4 @@
 
   var kittens = ["Milo", "Otis", "Garfield"];
   var kittens1 = ["Ralph"];
-  return (kittens.concat(kittens1));
+  console.log(kittens.concat(kittens1));
